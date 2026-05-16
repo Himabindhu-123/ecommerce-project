@@ -46,7 +46,24 @@ npm install
 
 # Start the development server
 npm start
+
 ```
+
+## 🎨 Frontend
+
+- Built using HTML, CSS, JavaScript / React.js  
+- Displays products, categories, and UI components  
+- Handles cart functionality on client side  
+- Sends requests to backend APIs for products and orders  
+- Responsive design for mobile and desktop  
+
+---
+
+## 🔧 Backend
+
+- Built using Node.js + Express.js  
+- MongoDB used for database  
+- APIs for products, cart, orders, and categories  
 
 ---
 

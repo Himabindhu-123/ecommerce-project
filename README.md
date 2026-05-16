@@ -36,7 +36,7 @@ A modern and responsive E-Commerce web application built using **MERN Stack / Fr
 
 
 # Clone the repository
-git clone https://github.com/your-username/ecommerce-project.git
+git clone https://github.com/Himabindhu-123/ecommerce-project.git
 
 # Navigate to project folder
 cd ecommerce-project
@@ -50,8 +50,22 @@ npm start
 
 ---
 
-## 🖼️ Screenshots  
-Add screenshots of your project here to showcase UI and features.
+## 🖼️ Screenshots
+
+### Backend
+![Backend](./screenshots/backend.png)
+
+### Home Page
+![Home Page](./screenshots/home.png)
+
+### Cart Page
+![Cart Page](./screenshots/cart.png)
+
+### Orders Page
+![Orders Page](./screenshots/orders.png)
+
+### Categories Page
+![Categories Page](./screenshots/categories.png)
 
 ---
 

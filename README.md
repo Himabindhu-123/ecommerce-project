@@ -1,82 +1,77 @@
 # 🛒 E-Commerce Web Application
 
-A full-stack E-commerce web application built using the MERN stack. This project allows users to browse products, search items, add products to cart, and view selected items with a smooth and responsive UI.
+## 📌 Project Overview
+This is a full-stack **E-Commerce Web Application** built using the MERN stack.  
+It allows users to browse products, search items, add products to cart, and complete purchases.
 
 ---
 
 ## 🚀 Features
-
-- 🏠 Home page with product listings  
+- 🏠 Home page with product listing  
 - 🔍 Search functionality for products  
-- 🛍️ Add to Cart feature  
-- 🛒 Cart page to view selected items  
-- 💳 Buy option for each product  
-- 🌙 Dark mode toggle  
-- 📱 Responsive UI for mobile and desktop  
-- 🖼️ Product images stored and displayed using MongoDB  
+- 🛒 Add to cart / Remove from cart  
+- 💳 Buy now option for products  
+- 📱 Fully responsive design  
+- 🗄️ MongoDB database integration  
+- 📦 Product image storage  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**
-- React.js
-- HTML, CSS, JavaScript
+### Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- React.js  
 
-**Backend:**
-- Node.js
-- Express.js
+### Backend
+- Node.js  
+- Express.js  
 
-**Database:**
-- MongoDB
+### Database
+- MongoDB (Mongoose)  
+
+### Tools
+- Git & GitHub  
+- Postman  
+- Netlify / Vercel  
+- Render / Railway  
 
 ---
 
 ## 📂 Project Structure
-
-project-folder/
-│
-├── frontend/
-│ ├── src/
-│ ├── public/
-│ └── package.json
-│
-├── backend/
-│ ├── models/
-│ ├── routes/
-│ ├── controllers/
-│ └── server.js
-│
-└── README.md
-
+E-commerce-project/ │ ├── frontend/ │   ├── public/ │   ├── src/ │   └── package.json │ ├── backend/ │   ├── models/ │   ├── routes/ │   ├── controllers/ │   ├── server.js │   └── package.json │ ├── .gitignore └── README.md
 
 ---
 
 ## ⚙️ Installation & Setup
 
-### Clone the repository
+### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Himabindhu-123/ecommerce-project.git
 
-### Set up Frontend
+2. Navigate to project folder
+Bash
+cd ecommerce-project
 
+3. Install frontend dependencies
+Bash
 cd frontend
 npm install
 npm start
 
-Set up backend
-
+4. Install backend dependencies
+Bash
 cd backend
 npm install
 node server.js
 
-### 💡 Future Improvements
+📈 Future Improvements
 User authentication (Login/Signup)
-Payment gateway integration
+Payment gateway integration (Razorpay/Stripe)
 Order history page
-Admin dashboard for product management
-Product filtering & sorting
-###👩‍💻 Author
+Admin dashboard
 
-Built by Himabindhu
-
+👩‍💻 Author
+Name: Ravuri Himabindhu 

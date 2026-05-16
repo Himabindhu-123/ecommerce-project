@@ -56,31 +56,27 @@ project-folder/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Himabindhu-123/ecommerce-project.git
+git clone https://github.com/your-username/your-repo-name.git
 
-## ▶️ Run the Project
+Set up Frontend
 
-### 2.Frontend
-```bash
 cd frontend
 npm install
 npm start
 
-### 3.Backend
-```bash
+Set up backend
+
 cd backend
 npm install
 node server.js
 
-## 💡 Future Improvements
+💡 Future Improvements
+User authentication (Login/Signup)
+Payment gateway integration
+Order history page
+Admin dashboard for product management
+Product filtering & sorting
+👩‍💻 Author
 
-- User authentication (login/signup)  
-- Payment gateway integration  
-- Order history page  
-- Admin dashboard for products  
+Built by Himabindhu
 
----
-
-## 👩‍💻 Author
-
-Built by **Ravuri Himabindhu**

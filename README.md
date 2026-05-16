@@ -54,11 +54,11 @@ project-folder/
 
 ## ⚙️ Installation & Setup
 
-### 1. Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 
-Set up Frontend
+### Set up Frontend
 
 cd frontend
 npm install
@@ -70,13 +70,13 @@ cd backend
 npm install
 node server.js
 
-💡 Future Improvements
+### 💡 Future Improvements
 User authentication (Login/Signup)
 Payment gateway integration
 Order history page
 Admin dashboard for product management
 Product filtering & sorting
-👩‍💻 Author
+###👩‍💻 Author
 
 Built by Himabindhu
 
